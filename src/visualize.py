@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """Plots written into results/ when you run the training script."""
 from __future__ import annotations
@@ -242,7 +242,7 @@ def plot_calibration(
             color=C_PRIMARY, lw=1.6, zorder=3,
         )
         ece_cal = calibrated_metrics.get("ece", expected_calibration_error(cal_prof))
-        subtitle = f"raw ECE={ece_raw:.3f}  â†’  calibrated ECE={ece_cal:.3f}"
+        subtitle = f"raw ECE={ece_raw:.3f}  â†? calibrated ECE={ece_cal:.3f}"
 
     ax.set_xlim(0.45, 1.0)
     ax.set_ylim(0.45, 1.0)

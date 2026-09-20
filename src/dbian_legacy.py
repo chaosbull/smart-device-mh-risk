@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """Earlier single-Gaussian model. Only here so we can score checkpoints/dbian_best.pt."""
 from __future__ import annotations

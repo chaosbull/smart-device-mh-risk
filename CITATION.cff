@@ -6,5 +6,5 @@ authors:
     given-names: Wenquan
 repository-code: "https://github.com/chaosbull/smart-device-mh-risk"
 url: "https://github.com/chaosbull"
-license: CC-BY-4.0
+license: Apache-2.0
 type: software

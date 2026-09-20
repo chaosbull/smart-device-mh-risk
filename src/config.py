@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """Settings for the run reported in the paper. Change these and the tables will move."""
 from pathlib import Path

@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """DRG-MDN-U.
 

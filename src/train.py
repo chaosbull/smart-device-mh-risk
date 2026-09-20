@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """Train DRG-MDN-U, plus the linear and gradient-boosting baselines."""
 from __future__ import annotations

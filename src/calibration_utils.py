@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """Coverage, ECE, and the csv/tex tables that go with the calibration figure."""
 from __future__ import annotations

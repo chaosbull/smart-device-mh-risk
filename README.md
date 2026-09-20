@@ -75,4 +75,4 @@ Stress is mapped Low / Medium / High / Very High to 0.25 / 0.50 / 0.75 / 1.00. G
 
 ## License
 
-Code and weights are under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). See `LICENSE`. Please credit Zeng Wenquan.
+Code and weights are under the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0). See `LICENSE`.

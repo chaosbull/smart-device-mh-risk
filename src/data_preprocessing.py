@@ -1,6 +1,6 @@
 # Author: ZengWenquan
 # https://github.com/chaosbull
-# License: CC BY 4.0
+# License: Apache-2.0
 
 """Read the csv, build the 12 continuous columns, split 70/15/15."""
 from __future__ import annotations
