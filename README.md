@@ -4,7 +4,7 @@ Code for
 
 **Smart Device Usage and Student Mental Health Risk Assessment: A Probabilistic Prediction Framework Integrating Dynamic Relationship Modeling and Uncertainty Calibration**
 
-Zeng Wenquan · https://github.com/chaosbull
+chaosbull· https://github.com/chaosbull
 
 The model (DRG-MDN-U) predicts a mental-health score from daily device use, sleep, study, activity, and a few demographic fields. It also returns a standard deviation, so a 90% interval is just the prediction plus or minus 1.645 sigma. A single scale, fit on the validation split, is applied afterwards. On this run that scale is 1.18.
 
