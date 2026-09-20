@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code or the figures, please cite the paper."
+title: "Smart Device Usage and Student Mental Health Risk Assessment: A Probabilistic Prediction Framework Integrating Dynamic Relationship Modeling and Uncertainty Calibration"
+authors:
+  - family-names: Zeng
+    given-names: Wenquan
+repository-code: "https://github.com/chaosbull/smart-device-mh-risk"
+url: "https://github.com/chaosbull"
+license: CC-BY-4.0
+type: software
